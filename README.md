@@ -1,3 +1,5 @@
+![Tarun Tyagi Banner](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f4aa2a7-1368-43ae-a436-3f02acadd10c" />)
+
 # Hi, I'm Tarun Tyagi 👋
 
 ## Business Intelligence Architect | Power BI | SQL | Excel VBA | Python Automation
