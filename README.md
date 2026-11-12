@@ -1,4 +1,6 @@
-![Tarun Tyagi Banner](<img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/325782bd-daf8-400f-a667-063be9f39252" />)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/325782bd-daf8-400f-a667-063be9f39252" alt="Tarun Tyagi Banner" width="100%">
+</p>
 
 # Hi, I'm Tarun Tyagi 👋
 
