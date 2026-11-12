@@ -1,4 +1,4 @@
-![Tarun Tyagi Banner](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f4aa2a7-1368-43ae-a436-3f02acadd10c" />)
+![Tarun Tyagi Banner](<img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/325782bd-daf8-400f-a667-063be9f39252" />)
 
 # Hi, I'm Tarun Tyagi 👋
 
