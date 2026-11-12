@@ -102,7 +102,7 @@ Analytics projects supporting data-driven decisions for pharmaceutical and healt
 - 📍 Ghaziabad, Uttar Pradesh, India
 - 💼 Business Intelligence Architect
 - 🔗 GitHub: github.com/tarun200589
-- 🔗 LinkedIn: Add Your LinkedIn Profile URL Here
+- 🔗 LinkedIn: www.linkedin.com/in/tarun-tyagi-1b56317a
 
 ---
 
